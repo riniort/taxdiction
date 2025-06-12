@@ -23,11 +23,14 @@ It provides fast and accurate tax computations with a sleek, iOS-style calculato
 
 ![image](https://github.com/user-attachments/assets/dba16e40-6b86-4e6c-8f59-f1c38b997ba3)
 
-> *Modern calculator look inspired by iOS design*
+
+## 🚀 Getting Started (for exe format)
+
+just download the taxdiction.exe file and open it
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started (for python format)
 
 ### 🐍 Requirements
 - Python 3.x
