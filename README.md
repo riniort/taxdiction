@@ -23,6 +23,16 @@ It provides fast and accurate tax computations with a sleek, iOS-style calculato
 
 ![image](https://github.com/user-attachments/assets/dba16e40-6b86-4e6c-8f59-f1c38b997ba3)
 
+---
+
+## 💻 File ....
+
+here're the file in project
+- taxdication.exe :: this one is ready for normal user as it already complied
+- taxdiction.py :: original python app easy for edit
+- taxdiction new ui.py :: python app with updated ui that use in current taxdication.exe
+
+---
 
 ## 🚀 Getting Started (for exe format)
 
